@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CryptoKitties/static/css/main.12c1bbb3.chunk.css",
+    "main.js": "/CryptoKitties/static/js/main.d5c5ef05.chunk.js",
+    "main.js.map": "/CryptoKitties/static/js/main.d5c5ef05.chunk.js.map",
+    "runtime-main.js": "/CryptoKitties/static/js/runtime-main.29d157d5.js",
+    "runtime-main.js.map": "/CryptoKitties/static/js/runtime-main.29d157d5.js.map",
+    "static/js/2.d12b4ad5.chunk.js": "/CryptoKitties/static/js/2.d12b4ad5.chunk.js",
+    "static/js/2.d12b4ad5.chunk.js.map": "/CryptoKitties/static/js/2.d12b4ad5.chunk.js.map",
+    "static/js/3.e5721ca4.chunk.js": "/CryptoKitties/static/js/3.e5721ca4.chunk.js",
+    "static/js/3.e5721ca4.chunk.js.map": "/CryptoKitties/static/js/3.e5721ca4.chunk.js.map",
+    "index.html": "/CryptoKitties/index.html",
+    "static/css/main.12c1bbb3.chunk.css.map": "/CryptoKitties/static/css/main.12c1bbb3.chunk.css.map",
+    "static/js/2.d12b4ad5.chunk.js.LICENSE.txt": "/CryptoKitties/static/js/2.d12b4ad5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d157d5.js",
+    "static/js/2.d12b4ad5.chunk.js",
+    "static/css/main.12c1bbb3.chunk.css",
+    "static/js/main.d5c5ef05.chunk.js"
+  ]
+}
